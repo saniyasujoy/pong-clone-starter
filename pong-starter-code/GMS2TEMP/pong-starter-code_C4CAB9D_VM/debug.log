@@ -1,0 +1,132 @@
+Starting...
+
+***************************************
+*     YoYo Games Mac Runner V0.1      *
+***************************************	 
+CommandLine: -game /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios -debugoutput /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log -output /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log -runTest -game "/Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios" -debugoutput "/Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log" -output "/Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log" 
+MemoryManager allocated: 712046
+Processing command line -game /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios -debugoutput /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log -output /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log -runTest -game "/Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios" -debugoutput "/Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log" -output "/Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/debug.log" 
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2024.0(0)[r32908]    *
+***************************************	 
+RunnerLoadGame: /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios
+#########################################################################
+####!!!!$$$$$$ pwd - /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/
+#########################################################################
+RunnerLoadGame() - /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios
+YYG Game launching. Game file: /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios
+Checking if INIFile exists at /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/options.ini
+INIFile /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/options.ini Exists, loading....
+Process Chunk: SCPT   96
+Process Chunk: DBGI   920
+Process Chunk: INST   8
+Process Chunk: LOCL   216
+Process Chunk: DFNC   8
+Process Chunk: STRG   5075
+Reading File /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios
+Loaded File /Users/saniyasujoy/Documents/GitHub/pong-clone-starter/pong-starter-code/GMS2TEMP/pong-starter-code_C4CAB9D_VM/game.ios(35932)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+Game..Math..Graphic..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+Init Graphics
+GR_D3D_Init()
+OpenGL: version string 2.1 Metal - 90.5
+OpenGL: vendor string Apple
+OpenGL GLSL: version string 1.20
+OpenGL version - detected 2.1
+OpenGL: VBOs supported
+OpenGL: Non-power-of-two textures supported
+Extensions: GL_ARB_color_buffer_float GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_seamless_cube_map GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shadow GL_ARB_shadow_ambient GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirrored_repeat GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_transpose_matrix GL_ARB_vertex_array_bgra GL_ARB_vertex_blend GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_window_pos GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_clip_volume_hint GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_draw_buffers2 GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_s3tc GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod_bias GL_EXT_texture_rectangle GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_APPLE_aux_depth_stencil GL_APPLE_client_storage GL_APPLE_element_array GL_APPLE_fence GL_APPLE_float_pixels GL_APPLE_flush_buffer_range GL_APPLE_flush_render GL_APPLE_packed_pixels GL_APPLE_pixel_buffer GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_specular_vector GL_APPLE_texture_range GL_APPLE_transform_hint GL_APPLE_vertex_array_object GL_APPLE_vertex_point_size GL_APPLE_vertex_program_evaluators GL_APPLE_ycbcr_422 GL_ATI_separate_stencil GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_IBM_rasterpos_clip GL_NV_blend_square GL_NV_conditional_render GL_NV_depth_clamp GL_NV_fog_distance GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_SGI_color_matrix GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod 
+OpenGL: packed 24bit depth/8bit stencil supported
+OpenGL: packed 24bit depth/8bit stencil supported
+OpenGL: seperate 8bit stencil supported
+Anisotropic filtering supported, max aniso 16
+OpenGL: 4 channel float surface formats supported (through extensions)
+OpenGL: 1 and 2 channel float surface formats supported
+OpenGL: 4 channel half-float surface formats supported (through extensions)
+OpenGL: 1 and 2 channel half-float surface formats supported (through extension)
+Tileset_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0xc47504020, 35932
+Process Chunk: GEN8   208  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   8  (0.00MB)
+Process Chunk: SOND   8  (0.00MB)
+Process Chunk: AGRP   8  (0.00MB)
+Process Chunk: SPRT   312  (0.00MB)
+Process Chunk: BGND   8  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   8  (0.00MB)
+Process Chunk: GLOB   8  (0.00MB)
+Process Chunk: SHDR   24  (0.00MB)
+Process Chunk: FONT   2696  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   1784  (0.00MB)
+Collision Event time(microsecs)=2
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   2872  (0.00MB)
+Process Chunk: UILR   8  (0.00MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   136  (0.00MB)
+Process Chunk: TGIN   136  (0.00MB)
+Process Chunk: CODE   1640  (0.00MB)
+Process Chunk: VARI   504  (0.00MB)
+Process Chunk: FUNC   184  (0.00MB)
+Process Chunk: FEAT   88  (0.00MB)
+Process Chunk: STRG   2152  (0.00MB)
+Process Chunk: TXTR   22600  (0.02MB)
+Process Chunk: AUDO   4  (0.00MB)
+Variable_Global_Init()
+PrepareGame()
+Audio_Init()
+Audio group 0 -> Loaded
+Attempting to set gamepadcount to 4
+libYoYoGamepad.dylib found at path /Users/Shared/GameMakerStudio2/Cache/runtimes/runtime-2024.13.0.238/mac/YoYo Runner.app/Contents/MacOS/../Frameworks/libYoYoGamepad.dylib
+Game_Prepare()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 6 objects:
+Room_Prepare() 
+Finished PrepareGame() 
+Run_Start
+Done g_EffectsManager.Init()
+Done RenderStateManager
+CreateColPairs took 0.000000s 4 usecs for 6 object types obj_col_numb=0 physobjcount=1 resizes 0 final size 3
+Done ObjectLists
+Done Extension_Initialize
+About to startroom
+Total memory used = 17801336 (0x010fa078) bytes 16.98MB
+Free memory = 6628776 (0x006525a8) bytes 6.32MB
+Peak memory used = 17801336 (0x010fa078) bytes 16.98MB
+**********************************.
+Entering main loop.
+**********************************.
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
